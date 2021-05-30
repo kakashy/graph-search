@@ -1,0 +1,12 @@
+{
+  "name": "graph-search",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
